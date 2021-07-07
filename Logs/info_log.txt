@@ -1,0 +1,103 @@
+2021-07-05 19:12:09,573 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:09,574 - user_enters - INFO - Call ----> enter_username()
+2021-07-05 19:12:09,576 - enter_username - INFO - Enter enter_username
+2021-07-05 19:12:09,594 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:09,660 - enter_username - INFO - Enter Username
+2021-07-05 19:12:11,674 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:11,674 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:11,699 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:11,699 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:11,744 - enter_password - INFO - Enter Password
+2021-07-05 19:12:13,756 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:13,756 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:13,756 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:13,772 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:13,772 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:13,772 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:13,777 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:13,777 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:13,777 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:13,814 - enter_email - INFO - Enter Email
+2021-07-05 19:12:15,826 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:15,826 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:15,826 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:15,826 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:15,883 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:15,883 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:15,883 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:15,883 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:15,954 - enter_confirm_password - INFO - Enter Confirm Password
+2021-07-05 19:12:23,145 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:23,145 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:23,145 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:23,145 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:23,145 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:23,145 - user_enters - INFO - Call ----> enter_username()
+2021-07-05 19:12:23,145 - user_enters - INFO - Call ----> enter_username()
+2021-07-05 19:12:23,145 - user_enters - INFO - Call ----> enter_username()
+2021-07-05 19:12:23,145 - user_enters - INFO - Call ----> enter_username()
+2021-07-05 19:12:23,145 - user_enters - INFO - Call ----> enter_username()
+2021-07-05 19:12:23,148 - enter_username - INFO - Enter enter_username
+2021-07-05 19:12:23,148 - enter_username - INFO - Enter enter_username
+2021-07-05 19:12:23,167 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:23,167 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:23,167 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:23,167 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:23,167 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:23,229 - enter_username - INFO - Enter Username
+2021-07-05 19:12:23,229 - enter_username - INFO - Enter Username
+2021-07-05 19:12:25,241 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:25,241 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:25,241 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:25,241 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:25,241 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:25,241 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:25,257 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:25,257 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:25,257 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:25,257 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:25,257 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:25,257 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:25,305 - enter_password - INFO - Enter Password
+2021-07-05 19:12:25,305 - enter_password - INFO - Enter Password
+2021-07-05 19:12:27,310 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:27,310 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:27,310 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:27,310 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:27,310 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:27,310 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:27,310 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:27,325 - read_excel_data - INFO - Email: Tester_email
+2021-07-05 19:12:27,369 - enter_email - INFO - Enter Email
+2021-07-05 19:12:27,369 - enter_email - INFO - Enter Email
+2021-07-05 19:12:29,377 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:29,377 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:29,377 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:29,377 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:29,377 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:29,377 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:29,377 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:29,377 - user_enters - INFO - Entered user_enters
+2021-07-05 19:12:29,421 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:29,421 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:29,421 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:29,421 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:29,421 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:29,421 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:29,421 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:29,421 - read_excel_data - INFO - Enter read_excel_data
+2021-07-05 19:12:29,490 - enter_confirm_password - INFO - Enter Confirm Password
+2021-07-05 19:12:29,490 - enter_confirm_password - INFO - Enter Confirm Password
