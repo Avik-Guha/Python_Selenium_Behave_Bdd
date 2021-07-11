@@ -31,8 +31,6 @@ All set!!! Just download the Project folder...
 
     Base --> contains Base class (used for setting environment, browser driver, logger)
 
-    Driver --> contains browser driver (to be used if you do not want to use driver manager)
-
     Features --> contains cucumber feature files
 
         Environment.py --> contains Hooks methods

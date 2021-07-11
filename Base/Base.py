@@ -3,7 +3,6 @@ import logging
 import time
 
 from selenium import webdriver
-# from selenium.webdriver import Chrome, Firefox
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.firefox import GeckoDriverManager
 from webdriver_manager.microsoft import IEDriverManager, EdgeChromiumDriverManager
@@ -13,17 +12,12 @@ def start_browser_driver(browser):
     global driver
 
     if str(browser) == "Chrome":
-        # chrome_driver_path = "Driver\\chromedriver.exe"
-        # driver = Chrome(executable_path=chrome_driver_path)
         driver = webdriver.Chrome(ChromeDriverManager().install())
     elif str(browser) == "ChromeHeadless":
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument("--headless")
-        # driver = webdriver.Chrome(options=chrome_options)
         driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
     elif str(browser) == "Firefox":
-        # firefox_driver_path = "Driver\\geckodriver.exe"
-        # driver = Firefox(executable_path=firefox_driver_path)
         driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
     elif str(browser) == "IE":
         driver = webdriver.Ie(IEDriverManager().install())
@@ -31,8 +25,6 @@ def start_browser_driver(browser):
         driver = webdriver.Edge(EdgeChromiumDriverManager().install())
     else:
         driver = webdriver.Chrome(ChromeDriverManager().install())
-        # chrome_driver_path = "Driver\\chromedriver.exe"
-        # driver = Chrome(executable_path=chrome_driver_path)
 
     driver.delete_all_cookies()
     driver.maximize_window()
