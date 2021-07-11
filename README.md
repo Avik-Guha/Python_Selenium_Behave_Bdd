@@ -5,6 +5,7 @@ This is a Web Automation Testing framework using:
     Selenium
     Python
     Behave BDD
+    Page Object Model
 
 ## Installation
 
